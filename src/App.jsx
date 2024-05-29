@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import Aos from "aos";
+import 'aos/dist/aos.css'
 import "./App.css";
 import Header from "./components/Header/Header";
 import Exercises from "./components/UI/Exercises";
